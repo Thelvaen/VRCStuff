@@ -9,4 +9,9 @@
         "Civilian": "True",
         "Aggressor": "True",
     }
+    "Nihonbo": {
+        "Dispatch": "True",
+        "Civilian": "True",
+        "Aggressor": "True",
+    }
 }
