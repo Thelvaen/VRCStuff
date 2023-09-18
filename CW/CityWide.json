@@ -2,16 +2,21 @@
     "Thelvaen": {
         "Dispatch": "True",
         "Civilian": "True",
-        "Aggressor": "True",
+        "Aggressor": "True"
     },
     "ᅳ": {
         "Dispatch": "True",
         "Civilian": "True",
-        "Aggressor": "True",
+        "Aggressor": "True"
     },
     "Nihonbo": {
         "Dispatch": "True",
         "Civilian": "True",
-        "Aggressor": "True",
-    }
+        "Aggressor": "True"
+    },
+   "[1] Local Player": {
+       "Dispatch": "True",
+        "Civilian": "True",
+        "Aggressor": "True"
+   }
 }
