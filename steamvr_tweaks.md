@@ -4,9 +4,11 @@ C:\Program Files (x86)\Steam\config\steamvr.vrsettings
 
 Add the following JSON key:
 ```json
+{
    "power" : {
       "autoLaunchSteamVROnButtonPress" : false
-   },
+   }
+}
 ```
 
 ---
