@@ -4,10 +4,9 @@ C:\Program Files (x86)\Steam\config\steamvr.vrsettings
 
 Add the following JSON key:
 ```json
-"power":
-{
-"autoLaunchSteamVROnButtonPress": false
-}
+   "power" : {
+      "autoLaunchSteamVROnButtonPress" : false
+   },
 ```
 
 ---
@@ -18,13 +17,13 @@ in C:\Program Files (x86)\Steam\config\steamvr.vrsettings
 
 ```json
 {
-  "steamvr": {
-  "requireHmd": false,
-  "activateMultipleDrivers" : true,
-  },
-  "TrackingOverrides" : {
+   "steamvr" : {
+      "requireHmd": false,
+      "activateMultipleDrivers" : true
+   },
+   "TrackingOverrides" : {
       "/devices/lighthouse/LHR-E13F79E8" : "/user/head"
-  },
+   },
 }
 ```
 You then want VRChat to ignore a specific tracker so it's not prompted in the FBT stuff (nor does it prompt said FBT stuff when you're just using a single tracker with Index controller for example).
