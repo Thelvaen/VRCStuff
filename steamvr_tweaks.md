@@ -43,3 +43,11 @@ To enable pairing control for dongle and thus control what is paired with what d
    },
 }
 ```
+
+---
+
+To allow access to other drives in Linux, use the option
+
+```bash
+STEAM_COMPAT_MOUNTS="/path/to/mount/point/" %command%
+```
